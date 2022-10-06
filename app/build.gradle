@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId "org.sappari.air_visualizer"
-        minSdk 30
+        minSdk 29
         targetSdk 32
         versionCode 1
         versionName "1.0"
